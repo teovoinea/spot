@@ -1,0 +1,6 @@
+[submodule "spot-server"]
+	path = spot-server
+	url = https://github.com/teovoinea/spot-server
+[submodule "spot-client"]
+	path = spot-client
+	url = https://github.com/teovoinea/spot-client
