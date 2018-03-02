@@ -25,7 +25,7 @@ struct MainService {
 impl MainService {
     fn new(handle: &Handle) -> MainService {
         MainService {
-            static_: Static::new(handle, Path::new("src/static/")),
+            static_: Static::new(handle, Path::new("static/")),
         }
     }
 }
