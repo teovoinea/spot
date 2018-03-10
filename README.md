@@ -1,6 +1,6 @@
 # spot
 
-Brings all of the Spot components (currently `spot-server` and `spot-client`) together
+Brings all of the Spot components (currently [`spot-server`](https://github.com/teovoinea/spot-server) and [`spot-client`](https://github.com/teovoinea/spot-client)) together
 
 ## Architecture
 
